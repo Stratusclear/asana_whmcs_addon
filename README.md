@@ -1,4 +1,4 @@
-asana_whmce_addon
+asana_whmcs_addon
 =================
 
 Asana WHMCS Addon
