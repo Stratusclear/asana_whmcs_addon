@@ -1,4 +1,4 @@
 asana_whmcs_addon
 =================
 
-Asana WHMCS Addon
+Asana WHMCS Addon Integration
